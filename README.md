@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-sys: https://enjoy-pany.github.io/view/sys/#/sys
+sys: https://enjoy-pany.github.io/view/sys/#/
